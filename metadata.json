@@ -1,0 +1,5 @@
+{
+  "name": "Photo Identifier AI",
+  "description": "An intelligent web application that uses AI to analyze and describe any photo you upload. Simply select an image, and the app will provide a detailed description of its contents.",
+  "requestFramePermissions": []
+}
